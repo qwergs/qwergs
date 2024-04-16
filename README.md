@@ -1,4 +1,5 @@
-### Hi there 👋
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=qwergs&show_icons=true&theme=tokyonight)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qwergs)](https://solved.ac/qwergs)
 
 <!--
 **qwergs/qwergs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
